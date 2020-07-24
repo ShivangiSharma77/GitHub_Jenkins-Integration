@@ -1,8 +1,35 @@
 # TASK-1: Integration of GitHub and Jenkins
 
-**JOB1- testing_env
+## JOB1- testing_env
 
-If Developer push to dev branch then Jenkins will fetch from dev and deploy on dev-docker environment.
+If Developer pushes to dev branch then Jenkins will fetch from dev branch and deploy on dev-docker environment.
+
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/testing_env1.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/testing_env2.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/testing_env3.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/testing_env4.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/merging_env.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/merging_env2.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/production_env1.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/production_env2.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/production_env3.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/production_env4.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/production_output.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/pipeline1.png?raw=true)
+
+![alt text](https://github.com/ShivangiSharma77/GitHub_Jenkins-Integration/blob/master/Jenkins_SS/pipeline2.png?raw=true)
 
 
 JOB#2
