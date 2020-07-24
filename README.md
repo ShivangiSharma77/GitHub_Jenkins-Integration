@@ -1,6 +1,9 @@
-# TASK-1 Integration of GitHub and Jenkins
-JOB#1
+# TASK-1: Integration of GitHub and Jenkins
+
+**JOB1- testing_env
+
 If Developer push to dev branch then Jenkins will fetch from dev and deploy on dev-docker environment.
+
 
 JOB#2
 If Developer push to master branch then Jenkins will fetch from master and deploy on master-docke environment.
