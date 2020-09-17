@@ -1,4 +1,4 @@
-# TASK-1: Integration of GitHub and Jenkins
+# Integration of GitHub and Jenkins
 
 ## JOB1- testing_env
 
